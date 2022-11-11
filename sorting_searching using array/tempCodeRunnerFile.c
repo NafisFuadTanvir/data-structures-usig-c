@@ -1,0 +1,1 @@
+printf("the item is found in %d index\n",mid);
